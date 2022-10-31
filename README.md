@@ -1,2 +1,2 @@
-# estudos_react_typescript
+# Estudos React Typescript
 Projetos que representam meus estudos de React com Typescript
