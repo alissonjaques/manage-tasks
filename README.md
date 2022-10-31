@@ -1,7 +1,4 @@
-# Estudos React Typescript #
-Projetos que representam meus estudos de React com Typescript
-==============================================================================================================================
-# Getting Started with Create React App
+# Projects that represent my React Typescript studies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
