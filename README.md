@@ -1,6 +1,13 @@
-# Projects that represent my React Typescript studies
+# Manage tasks
 
+Application that allows you to manage your list of studies.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Manage Tasks**
+| :label: Tecnologias | typescript, html, css, scss, react
+| :rocket: URL         | https://estudos-react-typescript.vercel.app/
 
 ## Available Scripts
 
@@ -45,3 +52,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 >>>>>>> a2ac6e045835bac4bd017ffb36815f8956cb622c
+
+## Images of the application working
+
+![alt text](https://github.com/alissonjaques/imagens-aplicacoes/blob/main/todo-typescript/home.PNG#vitrinedev)
+
+##
