@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 | -------------  | --- |
 | :sparkles: Nome        | **Manage Tasks**
 | :label: Tecnologias | typescript, html, css, scss, react
-| :rocket: URL         | https://alura-space-tau-ten.vercel.app/
+| :rocket: URL         | https://estudos-react-typescript.vercel.app/
 
 ## Available Scripts
 
